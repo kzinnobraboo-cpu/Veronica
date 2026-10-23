@@ -1,0 +1,9 @@
+Copyright (c) 2026 Neo. All rights reserved.
+
+The Veronica application source code is proprietary. No permission is granted
+to copy, modify, redistribute, sublicense, or publish this source code without
+prior written authorization from the copyright holder.
+
+Third-party components keep their own licenses. See LICENSE-llama.cpp.txt and
+LICENSE-Qwen.txt. The Node.js runtime and model are downloaded separately on
+first launch and are not part of this source package.

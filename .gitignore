@@ -1,0 +1,9 @@
+runtime/
+models/
+engine.key
+Veronica.key
+config.json
+projetos/
+*.part
+*.log
+*.zip
